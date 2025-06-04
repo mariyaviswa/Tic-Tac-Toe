@@ -18,4 +18,4 @@ The <code>main.py</code> file is the base code, We can run this in the terminal 
 
 ## User Interface
 
-<img src="">
+<img src="https://github.com/mariyaviswa/Tic-Tac-Toe/blob/main/user_interface.png">
